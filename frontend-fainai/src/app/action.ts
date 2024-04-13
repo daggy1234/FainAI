@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 /* eslint-disable import/no-extraneous-dependencies */
 
-"use server";
+"use client";
 
 import axios from "axios";
 
@@ -14,6 +14,7 @@ async function chatComplete(question: string, chat_history: any) {
   const resp = await axios.post("https://back.dag.gay/query/", data, {
     headers: {
       "Content-Type": "application/json",
+      "Access-Control-Allow-Origin": "*",
     },
   });
 

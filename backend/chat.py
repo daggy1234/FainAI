@@ -7,6 +7,7 @@ from langchain_pinecone import PineconeVectorStore
 from contextlib import asynccontextmanager
 from fastapi.exceptions import RequestValidationError
 from fastapi.responses import JSONResponse
+from fastapi.middleware.cors import CORSMiddleware
 import os
 from fastapi import FastAPI, Request, status
 from pydantic import BaseModel
@@ -18,8 +19,6 @@ class Query(BaseModel):
 
 
 models = {}
-
-
 
 
 
@@ -52,8 +51,26 @@ async def lifespan(app: FastAPI):
     yield
     models.clear()
 
+origins = [
+    "http://localhost",
+    "http://localhost:3000",
+    "https://fain.dag.gay",
+    "http://fain.dag.gay",
+    "https://*.dag.gay"
+]
+
+
+
 app = FastAPI(lifespan=lifespan)
 
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 @app.get("/")
 async def responda():
     return {"text": "Welcome to AI fain backend"}
