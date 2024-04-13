@@ -1,0 +1,565 @@
+{
+  "data": [
+    {
+      "start_time": 1,
+      "end_time": 57,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=769dfb1c-19f3-45fd-a1ea-b0f40146b85a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=0&isPrimary=false&absoluteTime=13349471101.032",
+      "captions": [
+        "But it's very.",
+        "This year. Here, you'll get a chance.",
+        "But it's. I think I think for the first time, like, you know."
+      ]
+    },
+    {
+      "start_time": 180,
+      "end_time": 339,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=769dfb1c-19f3-45fd-a1ea-b0f40146b85a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=1&isPrimary=false&absoluteTime=13349471280.532",
+      "captions": [
+        "That's really good.",
+        "I'm going to try.",
+        "All right. And welcome, everyone, and have your attention.",
+        "Please welcome the best class of spring Semester 2024 at Duke University.",
+        "That's going to be it's going to be your best class. So be my best class is gonna be everybody.",
+        "That's class. Welcome. I'm so glad you're here. I'm sorry. It's a little hot in the room.",
+        "I don't know if that'll change. I don't really understand how these buildings are heated. A couple of notes at the outset.",
+        "These slides are available on campus. They'll always be available on campus.",
+        "I don't promise they'll be available, like, 10 hours before class on canvas, but they'll be available by class on campus.",
+        "So you don't need to transcribe every single character on the slides.",
+        "They'll always be there for you when you need them. Class is also going to be recorded.",
+        "This is the first class, so I'm like 85% confident that the recording will work correctly and that'll go on campus as well.",
+        "And if it doesn't work correctly, we'll get it back by the second class. Anybody figure out what algorithm matters?",
+        "Hey, louder as bubbles sort. Yeah. Let me know if you've seen me on campus and you want a copy.",
+        "I will buy you a copy. Okay. You get the bubbles for coffee.",
+        "You don't start with this. Please don't ever sort with this.",
+        "You'll make me sad. Okay. This is the first class of our course on the design and the analysis of algorithms."
+      ]
+    },
+    {
+      "start_time": 360,
+      "end_time": 399,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=769dfb1c-19f3-45fd-a1ea-b0f40146b85a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=2&isPrimary=false&absoluteTime=13349471460.532",
+      "captions": [
+        "And my research is in algorithms, particularly with regard to decision making and agent based preferences.",
+        "I have the perspective of a theorist, but I'm often interested in practical issues surrounding fairness and human compatibility in algorithms and AI.",
+        "For fun. I like to cook a lot and I also like to read, especially history, philosophy and mostly older science fiction.",
+        "And when I grow up, I want to be an astronaut. Yeah, I would like you all to get to know each other and tell me a little bit about yourself.",
+        "In the same way this is not being graded."
+      ]
+    },
+    {
+      "start_time": 540,
+      "end_time": 603,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=769dfb1c-19f3-45fd-a1ea-b0f40146b85a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=3&isPrimary=false&absoluteTime=13349471640.532",
+      "captions": ["I like. It's not.", "Yes. Thanks very much for the."]
+    },
+    {
+      "start_time": 720,
+      "end_time": 855,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=769dfb1c-19f3-45fd-a1ea-b0f40146b85a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=4&isPrimary=false&absoluteTime=13349471820.532",
+      "captions": [
+        "Also, unsurprisingly, there are several of you who are studying various other disciplines.",
+        "Probably in addition, I'm guessing in addition for most of you, common combinations in engineering, statistics, mathematics, economics, biology.",
+        "I almost listed these in order of magnitude, but not quite.",
+        "We have ten humanists in the room. Be proud of yourselves and thank you for being here and for combining your studies with computer science.",
+        "That's very important. And six people who thought of something I did not think of.",
+        "So congratulations to you.",
+        "There are many things they will not become in a time together with your graduation cohort, the modal student and the median student in this class.",
+        "I believe looking at this chart is a junior. Most of you are juniors.",
+        "I don't know if you knew that I do that at of time, but now you know that as well.",
+        "Quite a few of you are sophomores and quite a few of you are seniors as well.",
+        "We have six people for whom it's complicated.",
+        "Lesson number two is to remember that with many things in life, including algorithms, it can be complicated.",
+        "So that's a good option to have. Where does your neighbor call Home in the world?",
+        "And I just listed a bunch of various regions and it looks like most of us are from the USA,",
+        "not necessarily North Carolina, from the eastern United States.",
+        "Quite a few people from the south, from the West, from the middle, U.S., from the north.",
+        "Some of you had to do some real soul searching to decide which category you would fit into.",
+        "And 11 of us who are local here from Durham or who call Durham home, because this is where you go to school.",
+        "I just asked what you call home. You can call whatever home you want to.",
+        "Indeed. That anyone. No one called Australia home, but one person did call Antarctica.",
+        "Interesting. Interesting. And as before, for some of us, it's complicated where home is.",
+        "And I forgot some stuff. What do you want to be when you grow up?",
+        "I dare not try to think of multiple choice options for this.",
+        "So this is just text and I don't really know what's going to show up."
+      ]
+    },
+    {
+      "start_time": 897,
+      "end_time": 900,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=a1955ac1-fc93-4cb3-b1aa-b0f40146d30a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=897&isPrimary=true&absoluteTime=13349471997.532",
+      "captions": []
+    },
+    {
+      "start_time": 924,
+      "end_time": 996,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=a1955ac1-fc93-4cb3-b1aa-b0f40146d30a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=924&isPrimary=true&absoluteTime=13349472024.532",
+      "captions": [
+        "And I said, I'm excited and nervous too, but I'm looking forward to teaching this class as the first class I ever taught.",
+        "Is my favorite class to teach. I love algorithms. I'm excited to be here and I'm excited that so many of you are here.",
+        "I'm also nervous that perhaps at some time, as it turns out,",
+        "I might not help you to learn something fully the first time around because I am not perfect.",
+        "So there's a little bit of nervousness in the room. Don't let that stop you.",
+        "Don't let that inhibit you. Don't feel like because you are nervous or unsure about whether you will be able to do some things in this course.",
+        "Do not allow yourself to believe that you cannot do anything in this course.",
+        "That is a pernicious lie. You will all learn a great deal in this course, and I'm looking forward to our time together.",
+        "Now that we know something about each other, let me tell you a little bit about our course and that we're going to do today."
+      ]
+    },
+    {
+      "start_time": 1068,
+      "end_time": 1080,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=a1955ac1-fc93-4cb3-b1aa-b0f40146d30a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=1068&isPrimary=true&absoluteTime=13349472168.532",
+      "captions": [
+        "I want to give first just an introduction to algorithms generally in this course,",
+        "and then I want to do a little bit of review about asymptotic analysis of efficiency and data structures,"
+      ]
+    },
+    {
+      "start_time": 1095,
+      "end_time": 1230,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=a1955ac1-fc93-4cb3-b1aa-b0f40146d30a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=1095&isPrimary=true&absoluteTime=13349472195.532",
+      "captions": [
+        "I think it's good to start with definitional questions. So let's take a few stabs at defining what algorithms are.",
+        "The first one I'll give you is from our book, from Jeff Erickson's book.",
+        "An algorithm is an explicit, precise, unambiguous, mechanically executable sequence of elementary instructions.",
+        "Usually it's intended to accomplish a specific purpose.",
+        "Okay, there is Erickson's perspective. What about another one?",
+        "But there's another very famous computer scientists from Stanford named Donald Knuth,",
+        "who's been writing a long standing series on the art of programing.",
+        "And it's a lot about algorithms. What does Knuth say? It says that an algorithm terminates after a finite number of steps.",
+        "Each step must be precisely defined and all of the operations must be sufficiently basic, Knuth points out,",
+        "and is the first to say that many of these individual terms are their own definitions,",
+        "such as what constitutes sufficiently basic, but thinks that this captures the spirit of the thing.",
+        "I'll give you how I think about it in my own head, which is an algorithm is a well-defined, effective procedure for computing desired output.",
+        "Given an input,",
+        "you might have a different perspective on the algorithms are you certainly don't have to adopt any of these particular perspectives or philosophies.",
+        "It turns out that, as with many fields of interest, perhaps the most difficult question is what exactly is it that the field studies you'll find,",
+        "for example, in biology, perhaps the most challenging question of all is what is life?",
+        "And in, for example, another course on, let's say, religion, one of the most difficult questions may be what is religion?",
+        "So for the most part, I will not give you a universal definition, but only some perspectives on what algorithms are.",
+        "And we will spend our time as part of a community of scholars who have been studying these things.",
+        "We call algorithms for many generations, trying to learn that art that has been passed on and indeed is more than being passed on,",
+        "has being quite actively researched and expanded in our world today."
+      ]
+    },
+    {
+      "start_time": 1260,
+      "end_time": 1341,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=769dfb1c-19f3-45fd-a1ea-b0f40146b85a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=7&isPrimary=false&absoluteTime=13349472360.532",
+      "captions": [
+        "All right. Let me unpack that for you.",
+        "There was a Persian speaking mathematician born in 780 in modern day Bacchus, then in the region of Hijazi, known as Mohammed Abu Musa,",
+        "from passing out for his name,",
+        "who was a mathematician and many other things besides actually went on to work at the House of Wisdom in Baghdad for many years.",
+        "Leading research there wrote several texts, including one called Al-jaber, which is where we take our algebra from.",
+        "This text became very influential, but also other works as well,",
+        "including one on how to use what are sometimes called Arabic numerals or Indo Arabic or Hindi numerals, or see them called different things.",
+        "These are the numerals we use. Like if you write numbers, those are what your writing wrote a text on how to do arithmetic with those",
+        "numerals that got translated into the Latin speaking western parts of Europe,",
+        "starting in Italy as algorithmic, which is a corruption of our reasoning, which is where we eventually get our word algorithm.",
+        "So the next time you hear algorithm, you know what you should be thinking. Use that to say that's what you should be thinking.",
+        "Etymological speaking. Today, you're probably familiar that algorithms, which were once perhaps a niche concern of mathematicians historically,"
+      ]
+    },
+    {
+      "start_time": 1431,
+      "end_time": 1440,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=a1955ac1-fc93-4cb3-b1aa-b0f40146d30a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=1431&isPrimary=true&absoluteTime=13349472531.532",
+      "captions": [
+        "Many of you are computer science majors, so you have to you have chosen this bed and you must lie in it."
+      ]
+    },
+    {
+      "start_time": 1518,
+      "end_time": 1614,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=a1955ac1-fc93-4cb3-b1aa-b0f40146d30a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=1518&isPrimary=true&absoluteTime=13349472618.532",
+      "captions": [
+        "Our course is a particular course on algorithms.",
+        "I teach other courses on algorithms, for example, my algorithms in the real world, which is about real world algorithmic systems.",
+        "This course is on the design and the analysis of algorithms.",
+        "What does that mean? At a high level, I think you can answer what is design analysis about with four question.",
+        "We're asking about the what's of algorithms, the hows, the whys and the wells,",
+        "the watts giving precise specifications of problems and desired behaviors for algorithm.",
+        "Because the reality is that in the real world you will have some relatively poorly specified,",
+        "ambiguous tasks that your boss or yourself or whoever else wants accomplished.",
+        "And if you want to put that into a specification, you can write an algorithm for you need it to be more precise, clarified and structured.",
+        "The how of algorithm. We will spend a lot of our time on that.",
+        "How design techniques were describing algorithms, the actual steps of procedures using a variety of techniques.",
+        "The why understanding why an algorithm works demystify not magic,",
+        "but the confidence that we understand how to persuade another human being that an algorithm is correct.",
+        "And the most important human being to persuade is yourself and the well of algorithms that we can",
+        "understand how to reason about the desirability of the efficiency of an algorithm with respect,",
+        "for example, and most commonly to runtime to scalability and to space."
+      ]
+    },
+    {
+      "start_time": 1620,
+      "end_time": 1710,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=769dfb1c-19f3-45fd-a1ea-b0f40146b85a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=9&isPrimary=false&absoluteTime=13349472720.532",
+      "captions": [
+        "These are relatively general purpose techniques in the sense that what we are trying to do is not to show you one very specific",
+        "application and a very specific technique to solve that very specific application that would not be helpful to you in other contexts,",
+        "but to show you techniques that may feel abstract to you when you see them the first time,",
+        "but they are abstract precisely because they are so generally useful for solving so many very different kinds of problems.",
+        "This concept we sometimes call reduction of reducing specific problems to something you know how to solve in a more general form.",
+        "When we describe algorithms, we can do that at a variety of levels of abstraction, all the way from intuitive English,",
+        "the way you might describe something to a friend for a cooking recipe all the way down to software,",
+        "by which I mean an algorithm written in a language that is specific, sufficiently formal that it can be executed in an actual machine.",
+        "Okay. And everything in between. We will mostly be working at the level of precise English and pseudocode in our class together.",
+        "And when we're discussing things in theory, we will also have some opportunities of some applied problems and things of that nature",
+        "to explore algorithms in software running on real machines as well this semester."
+      ]
+    },
+    {
+      "start_time": 1794,
+      "end_time": 1800,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=a1955ac1-fc93-4cb3-b1aa-b0f40146d30a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=1794&isPrimary=true&absoluteTime=13349472894.532",
+      "captions": [
+        "you can think of pseudocode as being roughly like precise English."
+      ]
+    },
+    {
+      "start_time": 1806,
+      "end_time": 1908,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=a1955ac1-fc93-4cb3-b1aa-b0f40146d30a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=1806&isPrimary=true&absoluteTime=13349472906.532",
+      "captions": [
+        "You could also think about pseudocode as being something like code that's written in a very high level,",
+        "fairly abstract language, probably the highest level or most abstract language most of you are familiar with is Python.",
+        "After something like that and showing an example of how easily translatable these would be.",
+        "I sometimes write pseudo code in class or something, so let me just out of fairness,",
+        "tell you a few features of my own personal habits that I tend to do when I write pseudocode.",
+        "These don't have to be. Your habits are usually zero.",
+        "Index my arrays and things like that in my pseudocode.",
+        "And for those of you who have programing in modern languages like Java or Python or C,",
+        "you too likely think about things in terms of zero indexing the first element of an array being index zero, for example.",
+        "That's actually not the older tradition.",
+        "So if you see mathematicians, they will typically one index, which is the more customary traditional way of doing indexing,",
+        "the first element being index zero all the way through like the Fortran programing language,",
+        "you would see one indexing and more recent programing languages zero index for memory reasons.",
+        "So you may see in the textbook, for example, that Geoff Erickson will typically want index.",
+        "I tend to overload and use the equal sign both for assignment and for equality weather,",
+        "whereas the textbook may often use the little left arrow to denote assignments and to distinguish that from equality.",
+        "And I tend to use indentation, as you can see in this example here, to denote implicit code blocks,",
+        "kind of like in Python, rather than writing lots of curly braces or in for loop statements or something like that.",
+        "These don't have to be your conventions. Just a couple of words about what I tend to do in many cases in this course,"
+      ]
+    },
+    {
+      "start_time": 1953,
+      "end_time": 1962,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=a1955ac1-fc93-4cb3-b1aa-b0f40146d30a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=1953&isPrimary=true&absoluteTime=13349473053.532",
+      "captions": [
+        "Let me say now a few things about asymptotic runtime efficiency analysis of efficiency by way of review.",
+        "After we talk a little bit about describing algorithms,"
+      ]
+    },
+    {
+      "start_time": 1980,
+      "end_time": 2046,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=769dfb1c-19f3-45fd-a1ea-b0f40146b85a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=11&isPrimary=false&absoluteTime=13349473080.532",
+      "captions": [
+        "In your working memory, for example. The implications of this are we are assuming that you can index into a position in an array constant time.",
+        "We're assuming that you can follow a reference or a pointer in constant time.",
+        "You may have assumed that, but that just that implicit let me make that explicit.",
+        "We'll start with our basic unit of analyzing the efficiency of the runtime of an algorithm with the concept of a constant time operation,",
+        "that is to say, an elementary operation, the runtime of which does not depend on the size of the input.",
+        "That will be our basic notion of a unit of runtime or an operation in an algorithm.",
+        "And we'll typically analyze runtime then by counting the number of constant time operations that",
+        "it takes over the course of the execution of a procedure as a function of the size of the input.",
+        "And if you want to be even more precise technically as a function of the number of bits in the input,",
+        "that usually won't be relevant, but it'll come up a couple of times. Okay."
+      ]
+    },
+    {
+      "start_time": 2160,
+      "end_time": 2202,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=769dfb1c-19f3-45fd-a1ea-b0f40146b85a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=12&isPrimary=false&absoluteTime=13349473260.532",
+      "captions": [
+        "On the second iteration of the outer loop one is equal to one and so on and so forth.",
+        "And I'll add all of that up and this is how many total iterations then there will be of the operations in the inner form, the.",
+        "That is an arithmetic series, which I hope that you recognize is bounded by a quadratic in N.",
+        "So let me write that round and then add everything up.",
+        "I'll put a C in front of there to represent the fact that I don't know what the constant is to translate this into,",
+        "say, seconds of runtime or something like this.",
+        "But there's some constant there and this is the number of operations, so the runtime should be proportional to this, something like that."
+      ]
+    },
+    {
+      "start_time": 2340,
+      "end_time": 2349,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=769dfb1c-19f3-45fd-a1ea-b0f40146b85a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=13&isPrimary=false&absoluteTime=13349473440.532",
+      "captions": [
+        "That's the more general definition. And the second one, the limit will work.",
+        "If you can calculate that limit necessarily."
+      ]
+    },
+    {
+      "start_time": 2457,
+      "end_time": 2520,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=a1955ac1-fc93-4cb3-b1aa-b0f40146d30a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=2457&isPrimary=true&absoluteTime=13349473557.532",
+      "captions": [
+        "Two other asymptotic notations, and these may be a little bit less familiar to you, though they're quite similar in principle to Big O.",
+        "So let me give you the intuitive idea of these notations. First, the definition is here, what I'll call big theta.",
+        "This is the theta and big omega. This is the omega three.",
+        "A big O is like approximately less than or equal to for large input.",
+        "Big Omega is approximately greater than or equal to four large inputs.",
+        "Okay, So it's not really like a totally different definition that you need to think about.",
+        "It's just the inverse.",
+        "Usually we talk about big O first, just because when we're trying to analyze an algorithm, the first thing we're usually interested in is saying it.",
+        "The runtime will be no worse than something that's usually the most important thing We say.",
+        "It'll be at least as fast as this. That's a big O kind of a statement.",
+        "A big Omega statement is if you want to say like, well, it's going to be at least this low.",
+        "On the other hand, a lower bound and asymptotic, lower values, you say, okay, so we talked about approximate asymptotic or just asymptotic,"
+      ]
+    },
+    {
+      "start_time": 2598,
+      "end_time": 2664,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=a1955ac1-fc93-4cb3-b1aa-b0f40146d30a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=2598&isPrimary=true&absoluteTime=13349473698.532",
+      "captions": [
+        "in terms of the scaling of an algorithm for different complexity classes.",
+        "Here's just, you know, plotting out how these numbers vary and you look at these different kinds of functions,",
+        "if you are doubling the size of the input to your algorithm for large sizes of input, a logarithmic time algorithm increases arithmetically, right?",
+        "So it might be like for every time I double the size of the input, it takes one millisecond longer.",
+        "It's a pretty good scaling. Are linear scales kind of how you would expect doubling the size of the input.",
+        "You should roughly double the empirical runtime for large inputs.",
+        "Quadratic doubling the size of the input should roughly quadruple the runtime empirically cubic roughly",
+        "multiply it by eight to the third and exponential time you're going to roughly every time you double the size.",
+        "The roughly square the the runtime not so good.",
+        "You can kind of see that demonstrated in the changes of the differences between the growth of these functions."
+      ]
+    },
+    {
+      "start_time": 2700,
+      "end_time": 2733,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=769dfb1c-19f3-45fd-a1ea-b0f40146b85a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=15&isPrimary=false&absoluteTime=13349473800.532",
+      "captions": [
+        "time operations are at say for example in squared plus 19 n plus 20 asymptotically.",
+        "That's quadratic,",
+        "meaning that eventually that quadratic term is going to be what dominates the scaling or the growth of the runtime of your algorithm.",
+        "But these are some substantial lower order terms plus 19.",
+        "So for a while that might make an influence on the runtime.",
+        "And for small inputs in particular, the scaling might not look quadratic yet, but it will eventually."
+      ]
+    },
+    {
+      "start_time": 2880,
+      "end_time": 3060,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=769dfb1c-19f3-45fd-a1ea-b0f40146b85a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=16&isPrimary=false&absoluteTime=13349473980.532",
+      "captions": [
+        "I just think that this is the right person for the time.",
+        "I got tired.",
+        "Justin Bieber also, pretty much.",
+        "Ruby Rose. We now.",
+        "They are counting.",
+        "You have. So.",
+        "What sort of improvements?",
+        "Last year it was.",
+        "The actors. That's crazy."
+      ]
+    },
+    {
+      "start_time": 3240,
+      "end_time": 3327,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=769dfb1c-19f3-45fd-a1ea-b0f40146b85a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=18&isPrimary=false&absoluteTime=13349474340.532",
+      "captions": [
+        "Yes, I like it.",
+        "Yes, There is a tape on the second floor loop. I wrote something up there.",
+        "Take another 30 seconds or so. As people wrap this up and then come back together.",
+        "When we actually. Oh know.",
+        "Don't know I. I guess I don't.",
+        "Might. Okay."
+      ]
+    },
+    {
+      "start_time": 3414,
+      "end_time": 3420,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=a1955ac1-fc93-4cb3-b1aa-b0f40146d30a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=3414&isPrimary=true&absoluteTime=13349474514.532",
+      "captions": [
+        "Algorithm A has data in log in runtime complexity.",
+        "Which of the following are necessarily true? First one is false is not necessarily true."
+      ]
+    },
+    {
+      "start_time": 3498,
+      "end_time": 3597,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=a1955ac1-fc93-4cb3-b1aa-b0f40146d30a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=3498&isPrimary=true&absoluteTime=13349474598.532",
+      "captions": [
+        "The hill algorithm which was presented there, is used to determine how many is one way of determining how many representatives each state should have.",
+        "And you might think, well, well, it's proportional by is this be a good example for us to discuss for a moment.",
+        "In the United States Congress, in the House of Representatives,",
+        "the number of representatives each state is supposed to receive is supposed to be proportional to its population.",
+        "But there are a fixed number of representatives, 435.",
+        "Right. And it doesn't divide evenly, of course.",
+        "So how do you actually decide this is a good example where it's easy to say something in intuitive English divided proportionally,",
+        "but it's not entirely clear what more precisely you plan to do in terms of a procedure for that.",
+        "The Huntington Hill algorithm is one such more precise procedure for allocating that these allocations matter a lot.",
+        "By the way, this is not just a small rounding error. Does a state get to representatives in the House or.",
+        "One is a pretty big deal, actually. So people care about this.",
+        "This is an example of an algorithm. And you were asked, what is this happen by runtime?",
+        "Complexity and function of are the number of representatives and in the number of states, yes, there was a typo in it,",
+        "but the majority of you still make the correct answer modulo the typo, which was beta Carr log in.",
+        "Hey was the correct answer here. Let's take a look at that one.",
+        "This uses a priority queue, which I told you to assume would be implemented as a binary."
+      ]
+    },
+    {
+      "start_time": 3600,
+      "end_time": 3780,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=769dfb1c-19f3-45fd-a1ea-b0f40146b85a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=20&isPrimary=false&absoluteTime=13349474700.532",
+      "captions": [
+        "First, we go through and give every state its first representative.",
+        "This loop has in iterations.",
+        "This is a constant time operation and an insert operation into a binary heap is a logarithmic time operation in the number of elements in the here.",
+        "What are we putting in? Well, we're putting in one each generation there. Any of these is going to be in most like the remote entries in there.",
+        "So we get in, log in here from this first one, second loop, how many iterations there's a going to take on that should be one to R minus.",
+        "And I told you to assume that our is bigger than N. Okay.",
+        "So we'll say that they're roughly our iterations.",
+        "We could be more precise if you want, but but roughly are actually the correct way to think about it is that between both of these two loops,",
+        "there will be a total of three iterations, right? Because on each iteration you're allocated one of the representatives.",
+        "And what do we do want to get an iteration. We do an extract Max for a this is a max.",
+        "You can also have a menu. We do some constant time arithmetic and then we do an insert back into the binary.",
+        "Both of those are logarithmic in the number of elements.",
+        "If you think about this on if we started with any things in the heap at each iteration, we remove something and we add something.",
+        "So we maintain that there is an element in the heap. So those operations are going to be like,",
+        "so our iterations at log in time for iteration because of the heap operations was the correct answer questions about any of these exercises.",
+        "Yes, it's the inverse forever to consider. The inverse square root.",
+        "Yeah, that's quite nice. Are you?",
+        "Yes. You're the one. No. Oh, yes.",
+        "So this is not consent. So what are we doing? These are both array lookouts so we can get the values in the array kind of time.",
+        "And then we have a number here. A number here. We can evaluate this sum in product for small numbers in quite some time.",
+        "And then we take the square root, which we can also do in constant times for small numbers.",
+        "General aside, when we talk about arithmetic, like multiplication, addition, square roots, etc.,",
+        "we treat all of those as constant time operations generally because they are as long as the numbers are small.",
+        "That's not actually true if the numbers are arbitrarily large.",
+        "But for the moment, if we're talking about numbers that, let's say fit in a 32 bit integer on your machine, like a lowercase I.R.A.,",
+        "int and a type language, you can think about it as constant time and we'll talk about deviations from that expectation.",
+        "Other questions? Oh, yes. Oh, yes.",
+        "Think I have two questions. So for the this, what about the priority?",
+        "Q Can you go over again why it's our times log of end of."
+      ]
+    },
+    {
+      "start_time": 3954,
+      "end_time": 3960,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=a1955ac1-fc93-4cb3-b1aa-b0f40146d30a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=3954&isPrimary=true&absoluteTime=13349475054.532",
+      "captions": []
+    },
+    {
+      "start_time": 3966,
+      "end_time": 3990,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=a1955ac1-fc93-4cb3-b1aa-b0f40146d30a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=3966&isPrimary=true&absoluteTime=13349475066.532",
+      "captions": [
+        "You've already had one. But algorithms typically utilize data structures, restoring and manipulating information.",
+        "And sometimes we want to analyze the efficiency of an algorithm, such as the example we just saw.",
+        "We need to understand the construction or efficiency of the data structures we're using in the algorithm to be able to do that."
+      ]
+    },
+    {
+      "start_time": 4023,
+      "end_time": 4089,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=a1955ac1-fc93-4cb3-b1aa-b0f40146d30a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=4023&isPrimary=true&absoluteTime=13349475123.532",
+      "captions": [
+        "And so you may be familiar with the idea of an array based list for a stack, for example, which implements a list or a stack using an array.",
+        "The way you do that is you have an array in memory at a given point in time.",
+        "Let's say we have three positions in our array right now.",
+        "When we add elements, if we have space left, we just keep adding elements to the end of our array as we fill it up.",
+        "And if we run out of room, then we just create a new array of larger size and memory.",
+        "We copy everything over, we get rid of the old one and then we continue adding elements.",
+        "So this is how you can implement a more dynamic list using arrays, maintaining the property of constant time.",
+        "Read and write an arbitrary index for the same reason you end with an array,",
+        "but being a little bit more dynamic and the cost that you pay is you have some amortized",
+        "complexity to these operations average over many operations because sometimes not too often,",
+        "but sometimes when you're trying to add elements, you'll run out of room and have to copy everything over."
+      ]
+    },
+    {
+      "start_time": 4131,
+      "end_time": 4140,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=a1955ac1-fc93-4cb3-b1aa-b0f40146d30a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=4131&isPrimary=true&absoluteTime=13349475231.532",
+      "captions": [
+        "A binary heap we mentioned before is a way of implementing a priority queue as something",
+        "that is implicitly you imagine as a as order tree or binary tree with the two properties,"
+      ]
+    },
+    {
+      "start_time": 4185,
+      "end_time": 4215,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=a1955ac1-fc93-4cb3-b1aa-b0f40146d30a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=4185&isPrimary=true&absoluteTime=13349475285.532",
+      "captions": [
+        "If you'd like to think of it that way in logarithmic time, as well as the removal of the minimal element in violence of time.",
+        "You can also just look at what the minimal element is in constant time usually.",
+        "So these are some of the operations that we were using just previously in the object in [INAUDIBLE] algorithm will show up a few different times.",
+        "Very often with greedy algorithms are simply a helpful data structure to have the binary search tree is what you"
+      ]
+    },
+    {
+      "start_time": 4266,
+      "end_time": 4308,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=a1955ac1-fc93-4cb3-b1aa-b0f40146d30a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=4266&isPrimary=true&absoluteTime=13349475366.532",
+      "captions": [
+        "let's say for a set to add an element to a set check if an element contains actually near the set contains a",
+        "particular element or remove a particular element or a cell balancing binary search trees such as a red y,",
+        "creating the l tree a big tree. There are several of these variants you can guarantee logarithmic complexity.",
+        "In the worst case, there's going to be an important concept for us, an analysis meaning without making assumptions about the nature of the input,",
+        "or that we get lucky in some way or anything like that, you just get log in absolute worst case,",
+        "which is why it should probably be your go to the other way."
+      ]
+    },
+    {
+      "start_time": 4320,
+      "end_time": 4347,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=769dfb1c-19f3-45fd-a1ea-b0f40146b85a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=24&isPrimary=false&absoluteTime=13349475420.532",
+      "captions": [
+        "we use a so-called hash function to determine for a given element what position we're going to store it at in the array,",
+        "and we'll use the same hash function for determining where to store elements that we will later use to determine if an element is in our hash table.",
+        "So that in other words, we always know how inclined the time checkpoint element should be if it is there.",
+        "The idea of a hash table, the problem with hash tables is that you will have collisions,"
+      ]
+    },
+    {
+      "start_time": 4461,
+      "end_time": 4467,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=a1955ac1-fc93-4cb3-b1aa-b0f40146d30a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=4461&isPrimary=true&absoluteTime=13349475561.532",
+      "captions": [
+        "Let me just say a couple of things quickly about the course administration.",
+        "The first and most important of which being you should already have had access."
+      ]
+    },
+    {
+      "start_time": 4479,
+      "end_time": 4500,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=a1955ac1-fc93-4cb3-b1aa-b0f40146d30a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=4479&isPrimary=true&absoluteTime=13349475579.532",
+      "captions": [
+        "But before I do that, let me just point out what's coming up next Monday, MLK Day holiday.",
+        "We will not have recitation. There is not an assignment out now.",
+        "I will see you to our next class. And we also plans put out the first assignment next Tuesday.",
+        "So I'll see you then. Let's go back."
+      ]
+    },
+    {
+      "start_time": 4680,
+      "end_time": 1000000,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=769dfb1c-19f3-45fd-a1ea-b0f40146b85a&sessionPID=3e2a7e8d-5789-48e7-b0c7-b0ce01475128&number=26&isPrimary=false&absoluteTime=13349475780.532",
+      "captions": [
+        "well, I know it's just somebody else.",
+        "Which means we're looking at how to which ones work for your schedule and whether they're already waitlisted or not.",
+        "What I may do, and it looks like right now, are all the sections.",
+        "So if there's anyone who is in there got time and their time, yeah, that it would be a service to your principal to switching to the Times article.",
+        "Other than that, I can't wait for someone to look at like, is there any way I could try to talk to the students?",
+        "I said, All the ones that are oversubscribed.",
+        "I've already said the number of bodies, that it's just that there are none of them that are like those sections.",
+        "They're like, Oh, I need to add a couple. That's fine. But they're only going to talk about the reputation those, you know, would be very,",
+        "which is why the first ones feel like textbooks and stuff like that to me as well.",
+        "I'll say that actually whenever my hope is that there will be a little probably reshuffling well, because of the deal with this year.",
+        "So if they can just work out. But there's no flexibility if you haven't tried yet.",
+        "I can't pick anyone out of the the section. It's going to until I can't increase the capacity of any of those any further or bring them to the limit.",
+        "I'm allowed to. Well, you said during the 30 minute walk away from all of us.",
+        "You should be ones. They wanted it.",
+        "And then in all of the times going through it, it's really something like it's just really weird to have like a parallel witness.",
+        "Like, I would like to be honestly, a little bit less control the subject, which is really quite good.",
+        "Any of them besides like, well, one really wants."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,544 @@
+{
+  "data": [
+    {
+      "start_time": 1,
+      "end_time": 9,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=45dd64ff-c8a8-44e7-b22a-b13f0136ea52&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=0&isPrimary=false&absoluteTime=13355947501.034",
+      "captions": ["That's all right. That's."]
+    },
+    {
+      "start_time": 60,
+      "end_time": 123,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=5624fd27-3a27-4294-a217-b13f01370394&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=60&isPrimary=true&absoluteTime=13355947560.534",
+      "captions": [
+        "Uh, announcements for the course generally. Uh, homework eight on closing cuts, uh, is available.",
+        "Let's do this Thursday as per usual. So please do take a look at that if you haven't already.",
+        "Uh, and homework nine on computational hardness will be releasing later this week.",
+        "We're still distracted. Steady state by the things uh, I did want to know.",
+        "Just minor about our syllabus policy that the two most homeworks, uh, will drop at the end of the semester.",
+        "Um, it's a reminder that that's the syllabus policy.",
+        "Uh, that, of course, might mean that some of you who have been diligent all semester could theoretically not believe some of the last time works.",
+        "Uh, I would, of course, encourage you still to try them for the sake of your learning and remind you, uh,",
+        "that problems like those that appear on homeworks and recitations, for example, uh, will appear on the exam.",
+        "The other slight variance of or perhaps in some cases exam problems that you have seen before.",
+        "And so that's a nice natural incentive to take a look at those as well.",
+        "One other announcement matter that I wanted to discuss is about course registration, public service announcement."
+      ]
+    },
+    {
+      "start_time": 180,
+      "end_time": 360,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=45dd64ff-c8a8-44e7-b22a-b13f0136ea52&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=1&isPrimary=false&absoluteTime=13355947680.534",
+      "captions": [
+        "which also is quite related to the theory of computational complexity more generally.",
+        "So in some ways kind of related to some of the stuff we'll be talking about today.",
+        "The doctor right hand side of 487 is, I believe this will be a new class of being processed in math 47, uh, that involves mutation.",
+        "Uh, Rossman is a complexity theorist.",
+        "Um, but this will be a course on mathematical logic that might be of interest to those aspiring logicians out there.",
+        "Um, sometimes, like 532 is, uh, if you're interested in taking a next class on the theory of algorithms,",
+        "would be the most natural next choice for you.",
+        "Uh, that is, the class comes to 532, a bit like, say, an incoming PhD student in their first year.",
+        "You might take on algorithms that should say it assumes that you've had an undergraduate algorithms course, kind of like this one.",
+        "Uh, and it goes on to discuss some additional techniques.",
+        "There'll be a little bit of overlap of potentially at a higher level in your focus on theory,",
+        "but it's kind of the gateway graduate course to various other algorithms offerings, and you are able to take that.",
+        "If you've taken this course this semester and liked it, you are perfectly able to register for this is a 500 number course,",
+        "which I think means for most of you, you should be able to just register and you don't actually need to ask for special permission to do that.",
+        "Anything. If you're on GitHub and you search for courses by the following, it might select the title that says show the undergraduate courses only,",
+        "and you might have to deselect that in order to see all of the nearly 500 level, uh, offerings, which are very much open to you as well.",
+        "If you'd like to take some specialized 500 level offerings.",
+        "Uh, and then finally, there is even in a more upper level class being offered in the fall, doctor Pangaea the teaching come side.",
+        "632 approximation algorithms. We'll be talking a little bit about approximation algorithms next week.",
+        "You might want to take 532 before you consider 632. But if you're particularly in.",
+        "In the topic. I encourage you to reach out to doctor company and see if that might make sense for you.",
+        "So just a few offerings in theoretical computer science. As you're considering your fall semester options.",
+        "I'd be happy to chat with any of you about what you might be considering course wise or theoretical computer science algorithms more broadly.",
+        "If you have any questions, are there any issues matters for our attention now about our course logistics, any of these announcements?",
+        "Yeah. So just to double check go here.",
+        "So the question is about the syllabus policy for exams. The syllabus policy for exams is that there's an exams part one scoring exams.",
+        "Part two score exams. Part one score is the better of your midterm exam and your the first part of the final exam.",
+        "Your late term exam is the better uh, your late parts of the exams.",
+        "Part two score is the better of your late term exam score and your final exam.",
+        "Part two. Uh, so if you take the midterm exam, you take the late term exam, you don't take the final exam."
+      ]
+    },
+    {
+      "start_time": 384,
+      "end_time": 411,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=5624fd27-3a27-4294-a217-b13f01370394&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=384&isPrimary=true&absoluteTime=13355947884.534",
+      "captions": [
+        "Okay, so I think till this point in the course, we've been talking about how to solve particular problems.",
+        "And we want them to be efficient. Right. So as I can see here, we have different angles to that.",
+        "Okay. And so all these are polynomial runtimes where you have n to some constant.",
+        "And so you're going to take a step back and look at some different problems.",
+        "And how can we tell. Okay."
+      ]
+    },
+    {
+      "start_time": 450,
+      "end_time": 480,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=5624fd27-3a27-4294-a217-b13f01370394&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=450&isPrimary=true&absoluteTime=13355947950.534",
+      "captions": [
+        "So we're going to be talking specifically about decision problems.",
+        "So a decision problem is a type of problem that it outputs either true or false.",
+        "So you give it some input and you say is this thing possible.",
+        "And it would say either yes or no.",
+        "And so this is going to let us um simplify how we're thinking about these different types of problems and complexity.",
+        "And we can also talk about decision variants of some um, some problems.",
+        "So for example, and we have this problem about shortest paths."
+      ]
+    },
+    {
+      "start_time": 513,
+      "end_time": 540,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=5624fd27-3a27-4294-a217-b13f01370394&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=513&isPrimary=true&absoluteTime=13355948013.534",
+      "captions": [
+        "Okay. So a lot of decision problems are rather difficult to solve, but it's easy to verify a solution.",
+        "So basically the idea is that if you do have some kind of solution, can you verify that it's correct?",
+        "So for example, if you're trying to find the longest path in a graph between two vertices.",
+        "So to solve they would say is there a path from us to T with that most with at least the edges?"
+      ]
+    },
+    {
+      "start_time": 582,
+      "end_time": 645,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=5624fd27-3a27-4294-a217-b13f01370394&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=582&isPrimary=true&absoluteTime=13355948082.534",
+      "captions": [
+        "So yeah, what are called complexity classes which classifies classifies how difficult a problem is.",
+        "So he has most of what we've seen so far. It's it stands for polynomial time.",
+        "So it's the class of problems where you can solve this problem for all instances in polynomial time.",
+        "Okay. And then we have NP is specifically for classification problems where given a",
+        "like a possible solution you can verify if it's correct in polynomial time.",
+        "Okay. And we also have so empty, which is it's just like that.",
+        "Instead of verifying if a solution is correct. You're verifying if a solution is incorrect.",
+        "So for example, or if the answer is no. So if you're trying to test to see if an integer is prime,",
+        "the prime is incomplete because you could if you gave it a list of factors that",
+        "are there's more than two of them and they more supply of took that number. Then you know that that number is not prime.",
+        "So it's like and you can do that in polynomial time. Okay."
+      ]
+    },
+    {
+      "start_time": 720,
+      "end_time": 723,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=45dd64ff-c8a8-44e7-b22a-b13f0136ea52&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=4&isPrimary=false&absoluteTime=13355948220.534",
+      "captions": []
+    },
+    {
+      "start_time": 765,
+      "end_time": 819,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=5624fd27-3a27-4294-a217-b13f01370394&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=765&isPrimary=true&absoluteTime=13355948265.534",
+      "captions": [
+        "Okay. So just aside about.",
+        "So P stands for place not empty does not stand for not not so it stands for nondeterministic polynomial and so classic classes or so.",
+        "This is just an aside. So if you're interested in this topic you can learn about it in 334 which is the foundations of computer science class.",
+        "Um, but this is just a quick aside. So yeah, I want to call attention.",
+        "So every computer that you use right now is based on an abstract idea of a Turing machine and nondeterministic finally,",
+        "on the basically it essentially means like if you have a million different computers running in parallel,",
+        "then you can solve a problem, an entry point problem, or some anomaly problem environment.",
+        "Um. Okay.",
+        "So we're not too concerned with the specifics of machines in this class."
+      ]
+    },
+    {
+      "start_time": 891,
+      "end_time": 900,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=5624fd27-3a27-4294-a217-b13f01370394&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=891&isPrimary=true&absoluteTime=13355948391.534",
+      "captions": [
+        "Okay. So if we can't prove that she does not equal NP or nobody has ever been able to do it so far,"
+      ]
+    },
+    {
+      "start_time": 978,
+      "end_time": 1023,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=5624fd27-3a27-4294-a217-b13f01370394&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=978&isPrimary=true&absoluteTime=13355948478.534",
+      "captions": [
+        "So this is the original NP complete promises the first MP company problem.",
+        "And so you're given a formula in conjunctive form. So conjunctive form is that you have and supports.",
+        "So you have clauses that are all together. And all of those are ended together.",
+        "And so the question is so remember this is a decision problem set I guess.",
+        "So the question is is there a way of assigning values to these variables that makes this expression true?",
+        "Okay, so it's like I have a list of variables.",
+        "Um, and then I say like, can I assign values to like x1, x2, x3, x4 such that the final expression evaluates to true.",
+        "Okay. And so there's uh, a more specific form of this problem called result, where every single class has exactly three literals."
+      ]
+    },
+    {
+      "start_time": 1080,
+      "end_time": 1092,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=45dd64ff-c8a8-44e7-b22a-b13f0136ea52&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=6&isPrimary=false&absoluteTime=13355948580.534",
+      "captions": [
+        "Yeah. How difficult it's. And so you can think about it as like a big open time, for example."
+      ]
+    },
+    {
+      "start_time": 1149,
+      "end_time": 1221,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=5624fd27-3a27-4294-a217-b13f01370394&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=1149&isPrimary=true&absoluteTime=13355948649.534",
+      "captions": [
+        "So in this case we're going to be working with two decision problems.",
+        "So I want to prove that p prime is at least S1 p.",
+        "So this is the definition of NP hard. And so you want to give a polynomial time reduction from GTP prime.",
+        "So you have some input x to p and you change that input to be a valid input from t prime okay.",
+        "And so you want to argue two things. You want to argue that this modification of the input is polynomial.",
+        "It's possible in plenty of time.",
+        "And then you also want to argue that if P caught on some inputs some input X is one that's there's no idea where p prime time is one.",
+        "So basically for all instances um p m x and p p of y get the same result.",
+        "And that's what that means dynamic. So p p p of y would solve g x."
+      ]
+    },
+    {
+      "start_time": 1260,
+      "end_time": 1290,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=45dd64ff-c8a8-44e7-b22a-b13f0136ea52&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=7&isPrimary=false&absoluteTime=13355948760.534",
+      "captions": [
+        "So if it's possible to return true or false. And so you'll see that if I'm able to solve this up then I'm also able to solve circuit satisfiability",
+        "because I can it's possible for me to transform it in polynomial time to a specific instance.",
+        "And then that instance has the same behavior as what I have. What circuit used to."
+      ]
+    },
+    {
+      "start_time": 1359,
+      "end_time": 1419,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=5624fd27-3a27-4294-a217-b13f01370394&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=1359&isPrimary=true&absoluteTime=13355948859.534",
+      "captions": [
+        "Let's see a reduction in action. So an independent problem.",
+        "So you're given a graph and you're saying that it's there a set of vertices of size bigger",
+        "than or equal to k such that none of these vertices share with each other with each other.",
+        "So the independent set since I have some subset of vertices and then none of those are essential.",
+        "Okay. So that's one problem. And and another problem vertex cover is what we talked about earlier.",
+        "So it's that it's there a set of vertices such that every edge has at least one point in this setting.",
+        "And you'll see two examples of vertex covers. So the highlighted vertices they touch every single edge in this graph.",
+        "Okay. So what we want to do is be one over reduce from independent set to vertex cover."
+      ]
+    },
+    {
+      "start_time": 1440,
+      "end_time": 1620,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=45dd64ff-c8a8-44e7-b22a-b13f0136ea52&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=8&isPrimary=false&absoluteTime=13355948940.534",
+      "captions": [
+        "So we have a great team and an energetic sense that is there.",
+        "Yeah. Sounds like is there a very independent set of signs okay.",
+        "Okay. So we consider another graph and an integer k prime where k prime is the number of vertices minus k.",
+        "Okay. So it's like if I had seven vertices and j and k was three that k be four.",
+        "Okay. And what we're trying to find is that g has a vertex cover of size k prime if and only if she has an independent set of size.",
+        "Okay. So they may want to prove both sides of it.",
+        "Okay. So we start by the that she has a vertex cover.",
+        "Uh, so this came from and we can't see. So then we consider all the vertices that are empty but not inside.",
+        "So consider the complement of C. So then the size of this would be equal to k right.",
+        "So I have some collection of vertices and c I consider every other vertex.",
+        "So we can look at this concrete example here.",
+        "So let's say we're trying to see if there's an independent set of size.",
+        "Okay. So then this is equivalent.",
+        "So I didn't have to set a size. This is equivalent to say is there a vertex covering that size.",
+        "Okay. So is there a vertex cover of size three.",
+        "And this graph. Can I take three for a C-section?",
+        "I can touch my face for that. Yes. And so I can take this one.",
+        "This one? Okay. So I was saying that suppose that there is a vertex of size three, right.",
+        "So now I want considering all of the vertices that are listed here.",
+        "So it's like the ones that don't have a maximum. Okay.",
+        "And so we know that for each of these vertices or for, for each of these edges, only one of them or on.",
+        "Okay. So if I, if I consider these outside the scenes right then its neighbor is not going to be in this is not going to be in.",
+        "There. So we know that these verses are not connected.",
+        "And so then we know that there is a. The questions about this."
+      ]
+    },
+    {
+      "start_time": 1800,
+      "end_time": 1860,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=45dd64ff-c8a8-44e7-b22a-b13f0136ea52&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=10&isPrimary=false&absoluteTime=13355949300.534",
+      "captions": [
+        "So we're not in our training and stuff. We're trying to reduce from independent set to vertex cover.",
+        "So we're showing that vertex coverage is at least that sort of concept.",
+        "Yeah. So it's like the idea is that to solve independent set we can just solve for the vertex cover with k points okay k.",
+        "So. So that's what you just said. And so we showed that she had the vertex cover of size cake.",
+        "Right. If and only if she has an independent set of size cake.",
+        "Okay. And we can do this in polynomial time because to compute k prime you're just subtracting.",
+        "And then to compute the complement it's an order at most the number of vertices."
+      ]
+    },
+    {
+      "start_time": 1980,
+      "end_time": 2160,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=45dd64ff-c8a8-44e7-b22a-b13f0136ea52&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=11&isPrimary=false&absoluteTime=13355949480.534",
+      "captions": [
+        "I. Got.",
+        "It. And. I was just like, you know.",
+        "I get 45. I probably should have said, I can't wait.",
+        "You can do this. I. Can.",
+        "Now you have. Covid.",
+        "He said he was. Ready.",
+        "I love. You guys.",
+        "I. Love you guys.",
+        "Let's start. In my heart.",
+        "I think it's okay. I'm not sure.",
+        "What it was. Yes yes yes yes.",
+        "Yes, I would say right. Yes, I would guess I would.",
+        "Say you're. Not exactly.",
+        "I think I have some ideas. Nice place to give my life around.",
+        "I feel. Like.",
+        "I know, I feel like.",
+        "I. Know where I am.",
+        "I'm. Right here.",
+        "Right now is not. Right for you guys."
+      ]
+    },
+    {
+      "start_time": 2340,
+      "end_time": 2520,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=45dd64ff-c8a8-44e7-b22a-b13f0136ea52&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=13&isPrimary=false&absoluteTime=13355949840.534",
+      "captions": [
+        "So you're checking to see that our existence is real.",
+        "That's co NP right. And then computing such an assignment in polynomial time is p.",
+        "And then the last one is only true for entry minus p if they're not equivalent.",
+        "Questions about that. Question.",
+        "It's exciting. Okay, so if you reduce from A to B, what is that truth?",
+        "So why don't you talk about it with your neighbors and see if we can come to a better consensus?",
+        "I know, Yeah, that's.",
+        "Before. I. You're.",
+        "Listening. I know. Right now.",
+        "Take. You got stationed right there, you know.",
+        "Because. It's got.",
+        "To be. A place.",
+        "For you to work. I. It's nice.",
+        "Are you right?",
+        "I think. This is at least as far as me.",
+        "I guess it's because it's a family.",
+        "That's part of the job. Okay. Okay, so the answer is yes.",
+        "At least as far as date. Yeah. So you what you see from H and B.",
+        "So it's like all instances of. Hey, first stop, I want to be sure, because at least that's what they say.",
+        "Okay. Yeah. Which is, you know, after all these years, this looks like a is an immediate problem.",
+        "Yeah. Something I didn't know is because you always want to disrupt something, though.",
+        "Because if you register for something unknown, you don't know anything. Yeah.",
+        "Seems. Okay.",
+        "All right. So. To prove that public access and people.",
+        "Which led to what she started."
+      ]
+    },
+    {
+      "start_time": 2700,
+      "end_time": 2811,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=45dd64ff-c8a8-44e7-b22a-b13f0136ea52&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=15&isPrimary=false&absoluteTime=13355950200.534",
+      "captions": [
+        "You think it might be hard? Do you think maybe there is no polynomial time algorithm for it?",
+        "What do you do? You try to give a reduction from a known NP hard problem to your POI, your problem of interest,",
+        "in order to demonstrate that if I could somehow come up with an algorithm to solve my POI,",
+        "my problem of interest, it would allow me to solve every NP hard problem in run time up to polynomial factors via a reduction.",
+        "So you want to show. Therefore, you're trying to show that your POI is hard.",
+        "You're starting with an arbitrary input to some known hard problem, showing how I could somehow convert that into an input to my POI.",
+        "I run an algorithm on my life, and I can tell you the answer to that known hard problem.",
+        "If I can do that, then it means my Pi has to be at least that hard to up to polynomial factors.",
+        "Just a reiteration. I don't know if that helps. Keep in mind, everything we're talking about here is at a very coarse level.",
+        "We're just talking about up to polynomial factors.",
+        "There are more fine grained complexity classes, but we want to look at the biggest, baddest distinction.",
+        "Is there a polynomial. Are you stuck with exponential.",
+        "That will be strongly motivating when we consider moving to approximation, because exponentials just aren't going to cut it.",
+        "In most contexts we have another.",
+        "All right. Okay.",
+        "So so you have to prove the economy. So it's two two.",
+        "It's going. Okay."
+      ]
+    },
+    {
+      "start_time": 2880,
+      "end_time": 3060,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=45dd64ff-c8a8-44e7-b22a-b13f0136ea52&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=16&isPrimary=false&absoluteTime=13355950380.534",
+      "captions": [
+        "So if I were. So let's say that this is g. If I were to draw t prime.",
+        "It was like. It was like this.",
+        "Okay, so, like, if I take a union between these two, between the edges, it would give you the complete graph.",
+        "Does that make sense? An construction. Okay.",
+        "So now what we're going to do is show that G Prime has a click of size k.",
+        "So this is g prime because I click a size k if and only if g has an independent size has an independent set of size k.",
+        "So we're saying that if there is an independent set of size k of this, there is also a thicker size k in this.",
+        "And then if there is a click a size k of this, that means that there was an independent set a size gave this okay.",
+        "So that's both sides of this. Okay, so suppose G prime does have a click of size k and call it c.",
+        "So in this case the k the c is these four pieces.",
+        "So those are the three. It's complete. So then we note that this means that all these edges are not in the original graph.",
+        "And so if none of those edges are in the original that these must be an independent set because there's nothing connecting these.",
+        "Okay, that makes sense. So I'm looking at the graph that I constructed.",
+        "And so it's like if I do have a complete subgraph of same k in that constructed graph, that none of those edges exist in the original graph.",
+        "Therefore, this complete subgraph is an independent set in the original graph.",
+        "Now this. This is a complete surprise.",
+        "Yeah. Yeah. So this is Jane, and this is G5.",
+        "So I made Easy prey by taking all the actions that were in GM and then adding them to G Prime.",
+        "And yes, it's like any age that isn't energy.",
+        "Is energy, right? At any age, that's not. And that isn't cheap.",
+        "It's not cheap, right? So it's like if I like if I overlaid these two graphs, it would be complete until."
+      ]
+    },
+    {
+      "start_time": 3240,
+      "end_time": 3303,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=45dd64ff-c8a8-44e7-b22a-b13f0136ea52&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=18&isPrimary=false&absoluteTime=13355950740.534",
+      "captions": [
+        "Yeah. So input to PE would be distracting.",
+        "Right. Step one is construct tension problem. So input to p prime.",
+        "So then get a prime of p prime is is there a click of size.",
+        "Right. And so if yes then if there is also an independent set of size k.",
+        "If no matter there is not. In some sense.",
+        "So in this case, it's like whenever you're doing polynomial time reductions between like and complete problems, it's always like the same one though.",
+        "So it's like it, uh, that, you know, your distance is just that.",
+        "There's also. Yes. Okay."
+      ]
+    },
+    {
+      "start_time": 3321,
+      "end_time": 3390,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=5624fd27-3a27-4294-a217-b13f01370394&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=3321&isPrimary=true&absoluteTime=13355950821.534",
+      "captions": [
+        "So some common mistakes and reductions.",
+        "So you tried first of all, were trying to prove that P prime is NP complete by reducing it from a known hard problem.",
+        "Right. And so starting from arbitrary input to p prime and set up.",
+        "So p prime is hard because that would allow us to solve anything P right.",
+        "So it's like they perform the same on on all inputs.",
+        "And then another common mistake is only proving one side of it if you know where you live.",
+        "So it's like you want to show that like in this example,",
+        "you want to show that if there is a clip of size k or candidate, if there is an independent set of size k,",
+        "then g prime will find a clique a size k, and also that if there is not an independent set of asking sheep, prime will say like this.",
+        "So it's like doing like the vertex number problem where I could follow what sigma is.",
+        "And so it performs the same inputs. Okay, so just to recap."
+      ]
+    },
+    {
+      "start_time": 3420,
+      "end_time": 3510,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=45dd64ff-c8a8-44e7-b22a-b13f0136ea52&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=19&isPrimary=false&absoluteTime=13355950920.534",
+      "captions": [
+        "And actually, that's an apology. So as an aside, I met Jeff Erickson last week.",
+        "I was at a conference, and I approached him and got to give an order to get it off graph.",
+        "So for the top scorer, in order for top stopping in 330, we'll get a chance on a graph spectrum.",
+        "And he was devising a very important and elaborate examination for this prize.",
+        "That will probably be predicated on how well you are able to assess what I call, uh,",
+        "Jeff Erickson isms, such as, you should tattoo this on your hand next to your mom's birthday.",
+        "Uh, right. Likes to sprinkle these little things in.",
+        "Uh, we're going to devise perhaps a fun little quiz involving how able to guess you are, whether that's a real Jeff Erickson ism.",
+        "Work on for our very valuable prize of an autograph.",
+        "That's it. Just so I guess it's pretty much like that.",
+        "I was like, what if I think up to it looks like he was at the conference, and I don't know what he looks like.",
+        "Like a what? A picture of him turned a corner and invented him, you know, like, hey.",
+        "He's like, not the strangest request that it seemed. Okay.",
+        "So so far we know that, you know, uh uh uh uh, contraction move from side to side and receptor and be complete.",
+        "And all these are important. So what we want to frame is that independent set is also complete."
+      ]
+    },
+    {
+      "start_time": 3579,
+      "end_time": 3600,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=5624fd27-3a27-4294-a217-b13f01370394&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=3579&isPrimary=true&absoluteTime=13355951079.534",
+      "captions": [
+        "Okay. And so there's three literals per course.",
+        "So for example we have a or b or c and b or not here update and so on.",
+        "And so we're going to construct a graph as follows. So k is the number of clauses in in this formula."
+      ]
+    },
+    {
+      "start_time": 3780,
+      "end_time": 3960,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=45dd64ff-c8a8-44e7-b22a-b13f0136ea52&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=21&isPrimary=false&absoluteTime=13355951280.534",
+      "captions": [
+        "So there is an assignment of two values to each of these variables that makes the overall expression true.",
+        "And so that means that whenever grabbing our independent set, we can choose a vertex from each of these split clause triangles.",
+        "And none of them will be connected because they're they're either in separate clauses or they're not a variable investigation.",
+        "Right. And so that means that there will be an independent set of.",
+        "This was about this. An important part is that we're assuming that site is satisfiable.",
+        "So assuming that there is an assignment and we can find that by just grab it and interpret it.",
+        "So. Is a classic.",
+        "So the red lines connect a variable in its application. So it's like you have a and A and they can't be true simultaneously right.",
+        "So that's why you put a match there. So like if we put a match there you would never select both A and A because they're connected.",
+        "And so that's why I make it. So it's not possible to do that. So now.",
+        "We want to suppose that she does have an independent skin, and was showed that this means that the formula is slightly.",
+        "Okay. So by the construction of the graph, we note that every vertex in the dependent set must be in a different clause, right?",
+        "Because each clause is connected. Okay.",
+        "So then we take each of the the vertices character set and we set it to to be true.",
+        "Okay. And then since we know that assets are independent asset, then this means that this is consistent to the variable.",
+        "So there's we're not assigning should the variable institution.",
+        "Therefore since we're. So in this case that we have like A is true, C is true and nothing is true."
+      ]
+    },
+    {
+      "start_time": 3990,
+      "end_time": 4140,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=5624fd27-3a27-4294-a217-b13f01370394&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=3990&isPrimary=true&absoluteTime=13355951490.534",
+      "captions": [
+        "So now if you look at this picture, then we know that all of these problems are now complete.",
+        "So what's interesting about efficacy is to say that you solve any problem and can be complete.",
+        "You saw all that. So it's like there's hundreds and hundreds of problems that can be complete.",
+        "But since you can do reductions between them, then if you're able to solve even one, then the entire class dissolves.",
+        "And so that's part of why most people think that P doesn't go to MPC.",
+        "Because I think of it, problems are everywhere. They're like biology with a science to you.",
+        "Science that whatever. And so there's like all these people working on these problems.",
+        "And nobody has found an efficient relationship with that one. And if you do the fabric of our society many class.",
+        "Yeah. Uh, I feel like, you know, I think the Romans were showing that, like, when you go to another Y.",
+        "Like, it also goes the other way around. So, so, like, the definition of hard is that if you can solve it, then you can solve everything else too.",
+        "So like you can construct like more reductions in such a, in a way where you can eventually choose a path.",
+        "And really follow up with the root of this hierarchy is not shown by a reduction I mean.",
+        "So there was a theorem that was flagged earlier in this, in that the Levin theorem proved in 1971 72, for which crook won the Turing Award.",
+        "So that was a very substantial result, which was demonstrating that satisfiability indeed has that property.",
+        "Everything else we will discuss, we demonstrate the reduction from that root of the hierarchy.",
+        "But that starting point, of course, uh, can't be demonstrated in the same way.",
+        "You have to start somewhere that's a more complex result that will be outside of the scope of our course.",
+        "Uh, but would be a result you would focus on, uh, in, of course, on complexity theory, if you're interested.",
+        "Uh, I should also point out what we're looking at, like the picture overall and thinking about complexity classes.",
+        "Um, there are some problems which appear to be hard, but which are not NP complete.",
+        "Sort of an interesting class and of its own. Right. Uh, perhaps the most canonical example of that is factoring.",
+        "Uh, so a lot of public key cryptography systems that I don't know if anyone here is shopping at the moment.",
+        "You are highly dependent on the following fact. The fact that factoring large integers is computationally intractable."
+      ]
+    },
+    {
+      "start_time": 4320,
+      "end_time": 4500,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=45dd64ff-c8a8-44e7-b22a-b13f0136ea52&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=24&isPrimary=false&absoluteTime=13355951820.534",
+      "captions": [
+        "You see that kind of. Thing?",
+        "Um, yeah. Yeah. Say, like, they're going to run through something in a long time and then run through the same thing.",
+        "Yeah. So I want. To play.",
+        "Another one here. So this is difficult.",
+        "So it's like a meter that you run up.",
+        "Wow. That's just fantastic. Like it's like I feel that you could see this sort of like, performance.",
+        "Yeah. I mean, like, seriously, I can. So if I try to see if I can solve it.",
+        "Is it actually then that means that I think it comes to mind.",
+        "I mean, that's a pretty constant, uh, just like picture that.",
+        "Let's say I have this whether, you know, I know that you guys have to be terminated.",
+        "Like, let's just say that we are similar, but other than that, and then I can be on the inside, right?",
+        "You know, put it into somebody to look at an ISIS. You know, you know, when you actually need to like I was like, that's what I did.",
+        "I got to be that. So it's like, I have a dictionary. I put up a no more than and then you can trace those actually.",
+        "And I also can tell you're using the same time.",
+        "Yeah. At the same time. Yeah. So it's like we do a sampling of it.",
+        "Sometimes I do three steps in. There is a little rapid reset is about to be I assume starting from.",
+        "Oh so you're like me updating it, just updating along, subtracting it.",
+        "Yeah. So so those are all easy. Not sure what else is going on that like looking at details or.",
+        "Yeah, yeah I think that's confusing, but it sounds like he's very close.",
+        "Yeah, yeah. It's like a tool that you're using if you're using features like don't tell me that's a magic trick,",
+        "but you're condenses all my high level ideas quickly to take you to some specific place.",
+        "And then you hear about, you know, the same day I said, if I can solve a recipe, then we must be.",
+        "At least that's where it is, because it'd be work easier than anything I wouldn't be.",
+        "Yeah, yeah, I know,",
+        "basically because you're interested to shoot me an email and I have like a two page Google Docs and I'll because I can I have a okay.",
+        "And I can I'll let me know if you'd like to see that. Yeah. I'll just add a kind of very similar question.",
+        "I was wondering like what the main difference that means that these runtime of speaker three will be, which is the elements of a ship.",
+        "Right? So, uh, so two phones is one is that it's more applied to that also it's everything.",
+        "Oh like the process. Whatever also is unlike developing and trading like neural networks and software."
+      ]
+    },
+    {
+      "start_time": 4680,
+      "end_time": 1000000,
+      "image": "https://duke.hosted.panopto.com/Panopto/Pages/Viewer/Thumb.aspx?eventTargetPID=45dd64ff-c8a8-44e7-b22a-b13f0136ea52&sessionPID=7e978592-735b-45a4-8989-b0ce01475400&number=26&isPrimary=false&absoluteTime=13355952180.534",
+      "captions": [
+        "Okay, cool. Um, so then for that problem that the fourth option in which you could solve it, uh, would be true if you had to to.",
+        "Yeah. If you, if you ran all these in parallel and then you just processed every single possible input,",
+        "then you could say if it's like get something right, but it's like that. The cost is cost.",
+        "Yeah, yeah. Oh yeah. Okay.",
+        "Gotcha. Makes sense. Thank you, thank you. So much I really just kind of like smudgy.",
+        "You have an embarrassing. I mean, it's because it needs to have been cleaned two weeks ago.",
+        "You can it in the sink. That's what I do sometimes. And I'm more liable to get shocked myself.",
+        "Yeah. You're so pure.",
+        "Yes. Just wondering. There's something. That works for us.",
+        "Yeah. I guess it's nice to have this station.",
+        "It's also the chocolate. It's the best. Sebastian.",
+        "Not."
+      ]
+    }
+  ]
+}

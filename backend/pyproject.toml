@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "backend"
+version = "0.1.0"
+description = ""
+authors = ["Arnav Jindal <arnav.jindal7@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.12.1"
+langchain = "^0.1.16"
+openai = "^1.17.1"
+langchain-openai = "^0.1.3"
+tiktoken = "^0.6.0"
+langchain-pinecone = "^0.1.0"
+requests = "^2.31.0"
+pypdf = "^4.2.0"
+fastapi = "^0.110.1"
+uvicorn = "^0.29.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
