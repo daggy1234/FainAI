@@ -6,9 +6,16 @@
 import axios from "axios";
 
 async function chatComplete(question: string, chat_history: any) {
+  const procChatHistory = chat_history.map((chat: any) => {
+    return {
+      role: chat.role,
+      content: chat.content,
+    };
+  });
+
   const data = {
     question,
-    history: chat_history,
+    history: procChatHistory,
   };
 
   const resp = await axios.post("https://back.dag.gay/query/", data, {
